@@ -15,3 +15,6 @@ class Lab3TestCases(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+# No, if test_double_one came back okay, that does mean the function is okay.
+# They answer just happened to be the same, we got lucky
